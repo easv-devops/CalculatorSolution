@@ -23,7 +23,7 @@ steps:
         SONAR_TOKEN:
           from_secret: SONAR_TOKEN
       commands:
-        - dotnet sonarscanner begin /k:"easv-devops_SonarQubeOldProject_AY32FFaJEVvRW2O60ESB" 
+        - dotnet sonarscanner begin /k:"easv-devops_CalculatorSolution_AY4K5QEXEVvRW2O60ETU" 
             /d:sonar.host.url="http://sonar.setgo.dk:9000"  
             /d:sonar.token="$SONAR_TOKEN" 
             /d:sonar.cs.vscodecovarage.xml.reportsPaths=covarage.xml /d:sonar.qualitygate.wait=true
