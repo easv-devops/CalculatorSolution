@@ -9,10 +9,7 @@ namespace ConsoleCalculator
 
     static Helper()
     {
-        var rawConnectionString = Environment.GetEnvironmentVariable("pgconn");
-        var user = Environment.GetEnvironmentVariable("POSTGRES_USER");
-
-        Console.WriteLine(Environment.GetEnvironmentVariable("POSTGRESUSER"));
+        var rawConnectionString = Environment.GetEnvironmentVariable("PGCONN");
 
         try
         {

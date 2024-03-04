@@ -5,8 +5,6 @@ services:
       context: .
       dockerfile: Dockerfile
     env_file:
-      - environments.env
+      - enviorments.env
     environment:
-     - PGCONN=${PGCONN}
-
-
+      - PGCONN=${PGCONN}
