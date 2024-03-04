@@ -13,15 +13,15 @@ class Program
             var calculator = new Calculator(calculatorRepository);
 
             Console.WriteLine("Enter first number:");
-            double n1 = Convert.ToDouble(Console.ReadLine() ?? "10");
+            double n1 = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("Enter second number:");
 
-            double n2 = Convert.ToDouble(Console.ReadLine() ?? "7");
+            double n2 = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("Choose operation (add, subtract, multiply, divide):");
             
-            string operation = (Console.ReadLine()!.Trim() ?? "add").ToLower();
+            string operation = (Console.ReadLine()!.Trim()).ToLower();
             
 
             switch (operation)

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qQ1ZKsBRD2f/ZazpgrKk1I7LZ08IuBjS32P79ZAgjBfwVv3/xjcp0l+x+rcl11E+XDdb7UZNywHfFK+X9uaiMw==",
+  "dgSpecHash": "K/rG/da1y6d1/2waLyVHFuot2JTGiJhJJyklTBUVcdsBGMSRra334uipZMcyQYWuijhtHCHO6AXFVMdW5oVlag==",
   "success": true,
   "projectFilePath": "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Dokumenter\\GitHub\\DevOps\\ConsoleCalculator\\ConsoleCalculator.csproj",
   "expectedPackageFiles": [
@@ -19,7 +19,9 @@
     "C:\\Users\\Atanas Stoyanov\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\Atanas Stoyanov\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\Atanas Stoyanov\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512",
-    "C:\\Users\\Atanas Stoyanov\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.2\\npgsql.entityframeworkcore.postgresql.8.0.2.nupkg.sha512"
+    "C:\\Users\\Atanas Stoyanov\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.2\\npgsql.entityframeworkcore.postgresql.8.0.2.nupkg.sha512",
+    "C:\\Users\\Atanas Stoyanov\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\Atanas Stoyanov\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
