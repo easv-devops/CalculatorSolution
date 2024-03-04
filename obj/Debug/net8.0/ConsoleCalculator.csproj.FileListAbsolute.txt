@@ -29,3 +29,4 @@ C:\Users\Atanas Stoyanov\OneDrive - Erhvervsakademi Sydvest\Dokumenter\GitHub\De
 C:\Users\Atanas Stoyanov\OneDrive - Erhvervsakademi Sydvest\Dokumenter\GitHub\DevOps\ConsoleCalculator\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\Atanas Stoyanov\OneDrive - Erhvervsakademi Sydvest\Dokumenter\GitHub\DevOps\ConsoleCalculator\obj\Debug\net8.0\ConsoleCalculator.csproj.AssemblyReference.cache
 C:\Users\Atanas Stoyanov\OneDrive - Erhvervsakademi Sydvest\Dokumenter\GitHub\DevOps\ConsoleCalculator\obj\Debug\net8.0\ConsoleCalculator.csproj.CopyComplete
+C:\Users\Atanas Stoyanov\OneDrive - Erhvervsakademi Sydvest\Dokumenter\GitHub\DevOps\ConsoleCalculator\obj\Debug\net8.0\ConsoleCalculator.sourcelink.json

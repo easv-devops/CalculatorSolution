@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qQ1ZKsBRD2f/ZazpgrKk1I7LZ08IuBjS32P79ZAgjBfwVv3/xjcp0l+x+rcl11E+XDdb7UZNywHfFK+X9uaiMw==",
+  "dgSpecHash": "lzK0jFN9xob0hfqzj6yJlruqj6EajRkmsWU3nXTtMXNb3iDsygAzm04Q1EbrznXpvEl4IHM8sbxbEJOtxVKWng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Dokumenter\\GitHub\\DevOps\\ConsoleCalculator\\ConsoleCalculator.csproj",
+  "projectFilePath": "c:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Dokumenter\\GitHub\\DevOps\\ConsoleCalculator\\ConsoleCalculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Atanas Stoyanov\\.nuget\\packages\\dapper\\2.1.28\\dapper.2.1.28.nupkg.sha512",
     "C:\\Users\\Atanas Stoyanov\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.2\\microsoft.entityframeworkcore.8.0.2.nupkg.sha512",

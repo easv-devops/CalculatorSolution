@@ -6,10 +6,14 @@ namespace ConsoleCalculator
     {
         public static readonly NpgsqlDataSource DataSource;
 
+
     static Helper()
     {
         var rawConnectionString = Environment.GetEnvironmentVariable("pgconn");
-        
+        var user = Environment.GetEnvironmentVariable("POSTGRES_USER");
+
+        Console.WriteLine(Environment.GetEnvironmentVariable("POSTGRESUSER"));
+
         try
         {
             if (string.IsNullOrEmpty(rawConnectionString))
