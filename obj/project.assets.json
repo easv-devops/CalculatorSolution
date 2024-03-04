@@ -835,11 +835,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Dokumenter\\GitHub\\DevOps\\ConsoleCalculator\\ConsoleCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Skrivebord\\CalculatorSolution\\ConsoleCalculator.csproj",
       "projectName": "ConsoleCalculator",
-      "projectPath": "c:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Dokumenter\\GitHub\\DevOps\\ConsoleCalculator\\ConsoleCalculator.csproj",
+      "projectPath": "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Skrivebord\\CalculatorSolution\\ConsoleCalculator.csproj",
       "packagesPath": "C:\\Users\\Atanas Stoyanov\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Dokumenter\\GitHub\\DevOps\\ConsoleCalculator\\obj\\",
+      "outputPath": "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Skrivebord\\CalculatorSolution\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Atanas Stoyanov\\AppData\\Roaming\\NuGet\\NuGet.Config"

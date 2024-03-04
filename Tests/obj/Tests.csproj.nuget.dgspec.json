@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Dokumenter\\GitHub\\DevOps\\ConsoleCalculator\\Tests\\Tests.csproj": {}
+    "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Skrivebord\\CalculatorSolution\\Tests\\Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Dokumenter\\GitHub\\DevOps\\ConsoleCalculator\\ConsoleCalculator.csproj": {
+    "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Skrivebord\\CalculatorSolution\\ConsoleCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Dokumenter\\GitHub\\DevOps\\ConsoleCalculator\\ConsoleCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Skrivebord\\CalculatorSolution\\ConsoleCalculator.csproj",
         "projectName": "ConsoleCalculator",
-        "projectPath": "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Dokumenter\\GitHub\\DevOps\\ConsoleCalculator\\ConsoleCalculator.csproj",
+        "projectPath": "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Skrivebord\\CalculatorSolution\\ConsoleCalculator.csproj",
         "packagesPath": "C:\\Users\\Atanas Stoyanov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Dokumenter\\GitHub\\DevOps\\ConsoleCalculator\\obj\\",
+        "outputPath": "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Skrivebord\\CalculatorSolution\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Atanas Stoyanov\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Dokumenter\\GitHub\\DevOps\\ConsoleCalculator\\Tests\\Tests.csproj": {
+    "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Skrivebord\\CalculatorSolution\\Tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Dokumenter\\GitHub\\DevOps\\ConsoleCalculator\\Tests\\Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Skrivebord\\CalculatorSolution\\Tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Dokumenter\\GitHub\\DevOps\\ConsoleCalculator\\Tests\\Tests.csproj",
+        "projectPath": "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Skrivebord\\CalculatorSolution\\Tests\\Tests.csproj",
         "packagesPath": "C:\\Users\\Atanas Stoyanov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Dokumenter\\GitHub\\DevOps\\ConsoleCalculator\\Tests\\obj\\",
+        "outputPath": "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Skrivebord\\CalculatorSolution\\Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Atanas Stoyanov\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -101,8 +101,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Dokumenter\\GitHub\\DevOps\\ConsoleCalculator\\ConsoleCalculator.csproj": {
-                "projectPath": "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Dokumenter\\GitHub\\DevOps\\ConsoleCalculator\\ConsoleCalculator.csproj"
+              "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Skrivebord\\CalculatorSolution\\ConsoleCalculator.csproj": {
+                "projectPath": "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Skrivebord\\CalculatorSolution\\ConsoleCalculator.csproj"
               }
             }
           }

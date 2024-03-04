@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "65tLo7Q4Dobbjhm6iWt2LrwAmhvY+K01knKzoQRc2n+R7iaXWSvb3V9K31LXaJRSnoiMJ0NvaHy8MBMltYIbcg==",
+  "dgSpecHash": "SG8H7BT6LmXmpkjvNVTamajd+0TcHOcNvJnWYLlVMfvcXnXyPoK4qyiDvczyNFPa9qNx4UIZFPFGqTtBhhbDkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Dokumenter\\GitHub\\DevOps\\ConsoleCalculator\\Tests\\Tests.csproj",
+  "projectFilePath": "C:\\Users\\Atanas Stoyanov\\OneDrive - Erhvervsakademi Sydvest\\Skrivebord\\CalculatorSolution\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Atanas Stoyanov\\.nuget\\packages\\dapper\\2.1.28\\dapper.2.1.28.nupkg.sha512",
     "C:\\Users\\Atanas Stoyanov\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
