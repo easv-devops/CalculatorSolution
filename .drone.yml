@@ -11,7 +11,7 @@ steps:
 
     - name: test
       image: mcr.microsoft.com/dotnet/sdk:latest
-      enviorment:
+      enviornment:
         PGCONN:
           from_secret: PGCONN
       commands:
@@ -19,7 +19,7 @@ steps:
     
     - name: code-analysis
       image: boulundeasv/dotnet-sdk-with-java
-      enviorment:
+      enviornment:
         SONAR_TOKEN:
           from_secret: SONAR_TOKEN
       commands:
